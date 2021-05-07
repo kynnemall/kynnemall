@@ -16,6 +16,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynnemall" />
 </a>
 
+<!--
 <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href= "https://github.com/kynnemall">
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/martinplatelet"/>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/martin-kenny-3ab42853/"/>
+-->
