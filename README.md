@@ -1,12 +1,7 @@
-### Hi there 👋
+### About me
 
-- 🔭 I’m currently working on getting my PhD in platelet biomechanics
-- 🌱 I’m currently learning how to do data science with Udacity
-- 👯 I’m looking to collaborate on ... (TBD)
-- 🤔 I’m looking for help with ... So many things
-- 💬 Ask me about ... Platelets? Or better yet, just ask me anything and I might be able to respond
-- 📫 How to reach me: one of the social links below
-- ⚡ Fun fact: 
+* I’m in the final year of my PhD investigating how platelet biomechanics affect platelet function. When I complete the PhD, I will be looking for Data Scientist roles with a focus on biomedical science. I've done lots of image analysis so a computer vision role would also be an option.
+* I'm currently enrolled in the Udacity Data Science Nanodegree program to boost my skills and focus my efforts into a portfolio
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
