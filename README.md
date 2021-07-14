@@ -1,7 +1,7 @@
 ### About me
 
-* I’m in the final year of my PhD investigating how platelet biomechanics affect platelet function. When I complete the PhD, I will be looking for Data Scientist roles with a focus on biomedical science. I've done lots of image analysis so a computer vision role would also be an option.
-* I'm currently enrolled in the Udacity Data Science Nanodegree program to boost my skills and focus my efforts into a portfolio
+* I’m in the final year of my PhD investigating how platelet biomechanics affect platelet function. When I complete the PhD, I will be looking for Data Scientist roles with a focus on biomedical science. I've done lots of image analysis so a computer vision role would be ideal.
+* I've just completed the Udacity Data Science Nanodegree program
 * Current project focus: dog breed identification using CNNs in a streamlit web app (hosting to follow)
 
 ## My GitHub Stats 📊
@@ -11,8 +11,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynnemall" />
 </a>
-<img align="left" src="https://github.com/kynnemall/my-github-stats/blob/master/generated/overview.svg" />
-
 <table>
   <tr>
     <td>
@@ -41,3 +39,4 @@
       </a>
     </td>
 </table>
+<img align="left" src="https://github.com/kynnemall/my-github-stats/blob/master/generated/overview.svg" />
