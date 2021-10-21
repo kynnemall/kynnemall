@@ -1,10 +1,10 @@
 ### About me
 
 * I’m in the final year of my PhD investigating how platelet biomechanics affect platelet function. When I complete the PhD, I will be looking for Data Scientist roles with a focus on biomedical science. I've done lots of image analysis so a computer vision role would be ideal.
-* I've just completed the Udacity Data Science Nanodegree program and published an editorial on Violin SuperPlots. Check out my [superviolin](https://github.com/kynnemall/superviolin) repo for more info.
-* Current project focus: dog breed identification using CNNs in a streamlit web app (hosting to follow)
+* I completed the Udacity Data Science Nanodegree program and recently published an editorial on Violin SuperPlots. Check out my [superviolin](https://github.com/kynnemall/superviolin) repo for more info.
+* Current project focus: [FigView](www.figview.com), a website for viewing a PDF and the images of said PDF side-by-side
 
-## My GitHub Stats 📊
+### My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kynnemall&count_private=true&show_icons=true&theme=radical" />
 </a>
