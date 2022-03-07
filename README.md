@@ -4,7 +4,7 @@
   <li>I completed the Udacity Data Science Nanodegree program and recently published an editorial on Violin SuperPlots. Check out the 
     <a href="https://github.com/kynnemall/superviolin">superviolin</a> repo for more info</li>
   <li><strong>Current project focus:</strong> <a href="https://www.figview.com">FigView</a>, a website for viewing a PDF and the images of said PDF side-by-side</li>
-  <li><strong>Currently writing my thesis so programming will have to wait!</strong></li>
+  <li><strong>Preparing for my PhD defense in April. Wish me luck!</strong></li>
 </ul>
 <h3>My GitHub Stats 📊</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
