@@ -1,10 +1,8 @@
 <h3>About me</h3>
 <ul>
-  <li>I’m in the final year of my PhD investigating how platelet biomechanics affect platelet function. When I complete the PhD, I will be looking for Data Scientist roles with a focus on biomedical science. I've done lots of image analysis so a computer vision role would be ideal.</li>
-  <li>I completed the Udacity Data Science Nanodegree program and recently published an editorial on Violin SuperPlots. Check out the 
-    <a href="https://github.com/kynnemall/superviolin">superviolin</a> repo for more info</li>
-  <li><strong>Current project focus:</strong> <a href="https://www.figview.com">FigView</a>, a website for viewing a PDF and the images of said PDF side-by-side</li>
-  <li><strong>Preparing for my PhD defense in April. Wish me luck!</strong></li>
+  <li>I’m a Data Scientist working in the Research Lab of Prof. Patricia Maguire in UCD</li>
+  <li>Computer vision projects are of great interest to me since my PhD required extensive application of image analysis to microscopy data</li>
+  <li><strong>Current project:</strong> Using AI to predict risk of Preeclampsia with the team at <a href="https://aipremie.com/people/">AI_PREMie</a></li>
 </ul>
 <h3>My GitHub Stats 📊</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
