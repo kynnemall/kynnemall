@@ -9,27 +9,27 @@
   <tr>
     <td>
       <a href="https://scholar.google.com/citations?user=3VizoREAAAAJ&hl=en&oi=ao">
-        <img align="center" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg">
+        <img align="center" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg">
       </a>
     </td>
   </tr>
   <tr>
     <td>  
       <a href= "https://www.researchgate.net/profile/Martin-Kenny">
-        <img align="center" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg">
+        <img align="center" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg">
       </a>
     </td>
   <tr>
     <td>
       <a href="https://twitter.com/martinplatelet">
-        <img align="center" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+        <img align="center" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href= "https://www.linkedin.com/in/martin-kenny-3ab42853/">
-        <img align="center" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+        <img align="center" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
       </a>
     </td>
   </tr>
