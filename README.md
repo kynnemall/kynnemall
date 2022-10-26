@@ -5,12 +5,6 @@
   <li><strong>Current project:</strong> Using AI to predict risk of Preeclampsia with the team at <a href="https://aipremie.com/people/">AI_PREMie</a></li>
 </ul>
 <h3>My GitHub Stats 📊</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=kynnemall&count_private=true&show_icons=true&theme=radical">
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynnemall">
-</a>
 <table>
   <tr>
     <td>
@@ -40,3 +34,9 @@
     </td>
   </tr>
 </table>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynnemall">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=kynnemall&count_private=true&show_icons=true&theme=radical">
+</a>
