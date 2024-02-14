@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>
-      <a href= "https://www.linkedin.com/in/martin-kenny-3ab42853/">
+      <a href= "https://www.linkedin.com/in/martin-kenny-phd">
         <img align="center" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
       </a>
     </td>
